@@ -47,4 +47,10 @@
 		"description": "Regular un-modified fosscord instance. 24/7 uptime and maintained.",
 		"image": "https://cdn.discordapp.com/attachments/1008235103878651945/1008374999037517844/Untitled27_20220813161120.png"
 	}
+		{
+		"name": "SmileTalk [not open 7/24]",
+		"url": "http://smiletalk.duckdns.org:3001/",
+		"description": "",
+		"image": "https://cdn.discordapp.com/attachments/1013920429758484560/1014885061503492137/unknown.png"
+	}
 ]
